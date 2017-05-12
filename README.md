@@ -7,3 +7,6 @@ Objectives
 -  Provide meaningful information in decisive way to address various business problems and future perspective of business behaviors.
 - Observe cultural, seasonal trends and their impact on businesses.
 
+Dataset
+Yelp Dataset 
+
